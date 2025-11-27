@@ -87,7 +87,7 @@ To upload
 
 
 # Result
-
+The fan speed controller system worked successfully. The fan speed increased automatically as the temperature rose and decreased when the temperature dropped, showing proper temperature-based speed control.
 ---
 To upload
 --
